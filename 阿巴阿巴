@@ -1,0 +1,3 @@
+git remote 添加来源 https://github.com/xyyyzt124567/little-letter.git
+git分支-M主
+git push -u origin main
